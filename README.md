@@ -62,5 +62,5 @@ Grid search - drawbacks of ```sklearn.model_selection.GridSearchCV```
 
 Random search - adantages over grid search and disadvantages ```sklearn.model_selection.RandomSearchCV```
 
-Bayesian optimisation - advantages and drawbacks. We're using the python library <div id="optuna"><a href="https://optuna.org/"><img src="https://optuna.org/assets/img/optuna-logo.png" alt="optuna library badge"</a></div>
+Bayesian optimisation - advantages and drawbacks. We're using the python library <div id="optuna"><a href="https://optuna.org/"><img src="https://optuna.org/assets/img/optuna-logo.png" alt="optuna library badge"/></a></div>
 </details>
