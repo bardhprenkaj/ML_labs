@@ -48,7 +48,19 @@ Ensembles and Neural Networks (lab 3)
 </summary>
 
 ## Ensembles and NNs
-Ensembels - bagging meta estimator, forests of randomised trees (RandomForestClassifier/Regressor, ExtraTreeClassifier/Regressor), AdaBoost, stacked ensembles
+Ensembles - bagging meta estimator, forests of randomised trees (RandomForestClassifier/Regressor, ExtraTreeClassifier/Regressor), AdaBoost, stacked ensembles
 
-Multilayer Perceptron (MLP) - classification, regression, regularisation using ```python import sklearn.neural_network.MLPClassifier as NN``` and ```python import sklearn.neural_network.MLPRegressor as NN```
+Multilayer Perceptron (MLP) - classification, regression, regularisation using ```import sklearn.neural_network.MLPClassifier as NN``` and ```import sklearn.neural_network.MLPRegressor as NN```
+</details>
+
+<summary>
+Hyperparameters tuning (lab 4)
+</summary>
+
+## Tuning hyperparameters
+Grid search - drawbacks of ```sklearn.model_selection.GridSearchCV```
+
+Random search - adantages over grid search and disadvantages ```sklearn.model_selection.RandomSearchCV```
+
+Bayesian optimisation - advantages and drawbacks. We're using the python library <div id="optuna"><a href="https://optuna.org/"><img src="https://optuna.org/assets/img/optuna-logo.png" alt="optuna library badge"</a></div>
 </details>
