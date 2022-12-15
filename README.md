@@ -1,4 +1,8 @@
 # ML_labs2022
+<div align="center">
+  <img src="https://media2.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif?cid=ecf05e479zt9zul8oz7kvbk7zear4hz74l7ycwd3q3x5vau6&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
+
 This repository contains the laboratory exercises with discussions of the Machine Learning course (2022/23) at the Master's degree in Computer Science at Sapienza University of Rome.
 
 The coding environment is Google Colab so that students don't have to configure a designated environment with specific Python packages.
