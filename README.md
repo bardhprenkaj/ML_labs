@@ -106,3 +106,7 @@ Attention mechanisms and Transformers
   
 Exercise: implement a 3-layered convolutional autoencoder and train/test it on MNIST
 </details>
+
+
+<h1>Project:</h1>
+<p>The presentation of the project can be found <a href="https://www.canva.com/design/DAFVNGVrMZ8/teKdqManE9Q-uEgNS3lT8A/view">here</a>.</p>
