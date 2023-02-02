@@ -109,4 +109,4 @@ Exercise: implement a 3-layered convolutional autoencoder and train/test it on M
 
 
 <h1>Project:</h1>
-<p>The presentation of the project can be found <a href="https://www.canva.com/design/DAFVNGVrMZ8/teKdqManE9Q-uEgNS3lT8A/view">here</a>.</p>
+<p>The presentation of the project can be found <a href="https://github.com/bardhprenkaj/ML_labs2022/blob/main/resources/project/project_description.pdf">here</a>.</p>
