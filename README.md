@@ -1,4 +1,4 @@
-# ML_labs2022
+# ML Laboratory Repo (Sapienza University of Rome)
 <div>
   <img src="https://media2.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif?cid=ecf05e479zt9zul8oz7kvbk7zear4hz74l7ycwd3q3x5vau6&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
