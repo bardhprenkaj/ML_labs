@@ -19,7 +19,8 @@
 </div>
 
 <br/>
-This repository contains the laboratory exercises with discussions of the Machine Learning course (2022/23) at the Master's degree in Computer Science at Sapienza University of Rome.
+This repository contains the laboratory exercises with discussions of the Machine Learning course (2023/24) at the Master's degree in Computer Science at Sapienza University of Rome.
+For completeness purposes, you'll also find last year's (2022/23) laboratory lessons. This is to show you that the course is in continuous development and evolution.
 
 The coding environment is Google Colab so that students don't have to configure a designated environment with specific Python packages.
 
