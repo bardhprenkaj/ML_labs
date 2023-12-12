@@ -39,3 +39,27 @@ Simple ML Models - Decision Trees, Random Forests, XGBoost
 
 XGBoost details - hyperparameters, optimization + overfitting
 </details>
+
+
+<details>
+<summary>
+Naive Bayes, Linear Regression, and SVMs (lab 2)
+</summary>
+
+## Naive Bayes, Linear Regression, and SVMs
+Bayes classification, Bayes's Theorem
+
+Gaussian and Multinomial Naive Bayes
+
+Simple Linear Regression + Basis Function for nonlinear feature relationships
+
+Ridge and Lasso regularization
+
+Simple insights on uncertainty
+
+Linear vs nonlinear separation hyperplanes
+
+Kernel trick - linear, polynomial, and radial basis function (RBF) kernel
+
+Soft margins of SVMs
+</details>
