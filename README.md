@@ -19,48 +19,9 @@
 </div>
 
 <br/>
-This repository contains the laboratory exercises with discussions of the Machine Learning course (2023/24) at the Master's degree in Computer Science at Sapienza University of Rome.
-For completeness purposes, you'll also find last year's (2022/23) laboratory lessons. This is to show you that the course is in continuous development and evolution.
+This repository contains the laboratory exercises with discussions of the Machine Learning course (2023/24) for the Master's degree in Computer Science at Sapienza University of Rome.
+You'll also find last year's (2022/23) laboratory lessons for completeness purposes. This shows you that the course is in continuous development and evolution.
 
-The coding environment is Google Colab so that students don't have to configure a designated environment with specific Python packages.
-
-The syllabus of the laboratory courses is:
-
-<details>
-<summary>
-Data pre-processing  + Simple ML Models (lab 1)
-</summary>
-
-## Data feature pre-processing
-Data cleaning - missing data.
-
-Encoding - pitfalls of encoding categorical data, one-hot encodings
-
-Simple ML Models - Decision Trees, Random Forests, XGBoost
-
-XGBoost details - hyperparameters, optimization + overfitting
-</details>
+The coding environment is Google Colab, so students don't have to configure a designated environment with specific Python packages.
 
 
-<details>
-<summary>
-Naive Bayes, Linear Regression, and SVMs (lab 2)
-</summary>
-
-## Naive Bayes, Linear Regression, and SVMs
-Bayes classification, Bayes's Theorem
-
-Gaussian and Multinomial Naive Bayes
-
-Simple Linear Regression + Basis Function for nonlinear feature relationships
-
-Ridge and Lasso regularization
-
-Simple insights on uncertainty
-
-Linear vs nonlinear separation hyperplanes
-
-Kernel trick - linear, polynomial, and radial basis function (RBF) kernel
-
-Soft margins of SVMs
-</details>
